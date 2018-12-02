@@ -1,0 +1,36 @@
+D .
+D bird
+R E4963494 .rec
+R 58749699 bird.atlas
+P EC5CE1C1 bird.png
+D flappy
+P 4553D47C 10001_1.png
+P 288C4DF9 10001_2.png
+P 1A850AC3 background.png
+P 3BE0A680 bird1.png
+P AA1F49D4 bird2.png
+P 114D24CC bird3.png
+R 5CE1E1E9 flap.wav
+P C999823C gameover.png
+P 6E9D9D32 get-ready.png
+R 6AE763F2 ground-hit.wav
+P 11E41621 ground.png
+P 07FF0ADF instructions.png
+P F7A4A92F medals.png
+R DF394EE6 ouch.wav
+R 8ED2CE4E pipe-hit.wav
+P 45BE1867 pipes1.png
+P 5D50B7F4 pipes2.png
+P 2F7B5638 preloader.gif
+R 69021F75 score.wav
+P 78061D1A scoreboard.png
+P A95130EC start-button.png
+P 4026CB4B title.png
+D bird/bird
+P 3BE0A680 bird1.png
+P AA1F49D4 bird2.png
+P 114D24CC bird3.png
+D flappy/fonts
+D flappy/fonts/flappyfont
+R 6AC27E97 flappyfont.fnt
+P FB75C0C0 flappyfont.png
